@@ -1,4 +1,4 @@
-Hi 👋 My name is Alessandro Volpe
+Hi 👋 My name is Alessandro
 =================================
 
 Cyber Security Student. Digital Forensics Student. Networking Student.
